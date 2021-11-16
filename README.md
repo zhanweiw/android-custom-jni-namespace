@@ -1,3 +1,6 @@
+https://fadeevab.com/accessing-system-private-api-through-namespace/
+
+
 # Accessing System Private API Through the Android Linker Namespace
 
 ## Precondition
